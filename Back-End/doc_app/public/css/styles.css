@@ -1,0 +1,113 @@
+/* Override default styles */
+.x-app-layout {
+    margin-top: 0;
+}
+
+/* Adjust margin for the container */
+.py-12 {
+    margin-top: 0;
+}
+
+/* Add margin to the stats container */
+.bg--100 {
+    margin-top: 20px;
+}
+
+/* Adjust the width and height of stats containers */
+.w-72 {
+    width: 18rem;
+}
+
+.h-20 {
+    height: 5rem;
+}
+
+/* Adjust the text alignment in the stats containers */
+.pl-5 {
+    padding-left: 1.25rem;
+}
+
+/* Adjust the font size in the stats containers */
+.text-lg {
+    font-size: 1.125rem;
+}
+
+/* Adjust the margin and font size for the stats labels */
+.pt-6 {
+    padding-top: 1.5rem;
+}
+
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
+
+.text-sm {
+    font-size: 0.875rem;
+}
+
+/* Adjust the font size and margin for the stats values */
+.text-3xl {
+    font-size: 1.875rem;
+    margin-left: 1.25rem;
+}
+
+/* Adjust the color of the stats values */
+.text-gray-800 {
+    color: #374151;
+}
+
+/* Adjust the background color of the stats containers */
+.bg-blue-500 {
+    background-color: #3b82f6;
+}
+
+/* Adjust the text color in the stats containers */
+.text-white {
+    color: #fff;
+}
+
+/* Adjust the shadow and hover effect on the stats containers */
+.shadow-lg {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.hover\:shadow-2xl:hover {
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+/* Adjust the scale on hover effect for the stats containers */
+.transform {
+    --tw-scale-x: 1;
+    --tw-scale-y: 1;
+}
+
+.hover\:scale-100:hover {
+    --tw-scale-x: 1.05;
+    --tw-scale-y: 1.05;
+}
+
+/* Adjust the cursor style on the stats containers */
+.cursor-pointer {
+    cursor: pointer;
+}
+
+/* Adjust the margin for the stats labels in the containers */
+.justify-between {
+    justify-content: space-between;
+}
+
+/* Adjust the margin for the stats labels in the containers */
+.px-5 {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+
+/* Adjust the margin for the stats labels in the containers */
+.pt-6 {
+    padding-top: 1.5rem;
+}
+
+/* Adjust the margin for the stats labels in the containers */
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
